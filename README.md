@@ -48,7 +48,12 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 10. Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
 
 ---
-
+```
+Parameter of given fiber are,
+A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
+From fig. shows only 4 LP modes propagates.
+Total number of modes = V2 / 2 = 4.912 / 2
+```
 
 ## 📊 OBSERVATION AND CALCULATION
 ![WhatsApp Image 2025-11-11 at 16 22 09_3d786bde](https://github.com/user-attachments/assets/9e83b9ca-5478-4a51-a739-77404d6ef548)
